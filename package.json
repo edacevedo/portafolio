@@ -1,0 +1,20 @@
+{
+  "name": "portafolio",
+  "version": "1.0.0",
+  "description": "Portafolio Edinson Acevedo | Front-end developer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Dev",
+    "Web",
+    "development",
+    "JavaScript",
+    "Front-end",
+    "ReactJs",
+    "CSS"
+  ],
+  "author": "Edinson Acevedo",
+  "license": "MIT"
+}
